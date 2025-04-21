@@ -24,3 +24,9 @@ Melalui program ini, kamu bisa belajar:
     Praktik dasar string dan integer dalam C++
 
 
+⚡ How to run : 
+
+Notes : Harus install c++ dulu tutor ada di yt,browser dan AI
+
+- g++ main.cpp  (command untuk proses compile)
+- ./a.exe       (exekusi hasil compile)
